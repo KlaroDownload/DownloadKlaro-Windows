@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://klarodownload.pages.dev/sitemap.xml
